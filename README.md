@@ -1,6 +1,17 @@
-- 👋 Hi, I’m @FellSt220132
-- 🌱 I’m currently learning HTML, CSS, C#, JS, WPF, Python
-- 😄 Pronouns: he/him
+## Hi, i am Stefan Fellner!
+
+## Coding Languages
+- HTML
+- CSS
+- JS
+- C
+- C#
+- WPF
+- Python
+
+## Spoken Languages
+- German
+- English
 
 <!---
 FellSt220132/FellSt220132 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

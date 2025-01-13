@@ -8,6 +8,9 @@
 - C#
 - WPF
 - Python
+- Java
+- Bash
+- 
 
 ## Spoken Languages
 - German

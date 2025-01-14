@@ -9,7 +9,7 @@
   - C
   - C#
   - Java
-  - Python#
+  - Python
 - Systems
   - Windows
   - Linux

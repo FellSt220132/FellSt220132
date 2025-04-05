@@ -10,7 +10,7 @@
   - C#
   - Java
   - Python
-- Systems
+- Operating Systems
   - Windows
   - Linux
 

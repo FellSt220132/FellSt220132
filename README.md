@@ -5,6 +5,7 @@
   - HTML
   - CSS
   - JS
+  - React (Currently learning)
 - Other Languages
   - C
   - C#

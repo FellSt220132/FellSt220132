@@ -7,7 +7,7 @@
 ## Programming Skills
 
 + Basic Knowledge about multiple Languages (C, C#, JS, ...)
-+ Currently trying to learn Java on a more advanced Level
++ Currently learning Java on a more advanced Level
   
 <!---
 FellSt220132/FellSt220132 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

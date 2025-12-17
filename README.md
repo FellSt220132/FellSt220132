@@ -6,7 +6,7 @@
 
 ## Programming Skills
 
-+ Basic Knowledge about multiple Languages (C, C#, JS, ...)
++ Basic Skills in multiple Languages (C, C#, JS, ...)
 + Currently learning Java on a more advanced Level
   
 <!---

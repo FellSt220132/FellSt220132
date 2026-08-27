@@ -7,8 +7,8 @@
 
 ## Programming Skills
 
-+ Basic Skills in multiple Languages (C, C#, JS, ...)
-+ Currently learning Java on a more advanced Level
++ Basic Skills in C, C#, JS and other commonly found languages
++ Currently learning Java on a more advanced Level (Matura coming soon 🤯)
   
 <!---
 FellSt220132/FellSt220132 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
